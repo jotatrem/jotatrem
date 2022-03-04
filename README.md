@@ -9,8 +9,6 @@ const jotape = {
     NodeJS: 'https://nodejs.org',
     Slack: 'https://www.slack.com',
     Git: 'https://git-scm.com/'
- 📧: (contact)  {
-    Discord: 'jotape#0001',
   }
 }
 ```
