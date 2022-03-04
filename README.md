@@ -13,6 +13,4 @@ const jotape = {
     Discord: 'jotape#0001',
   }
 }
-
-}
 ```
